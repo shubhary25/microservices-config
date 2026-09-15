@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs -  changed message for spring cloud bus again"
+  message: "Welcome to EazyBank cards related PROD APIs -  changed message for spring cloud bus rev2"
   contactDetails:
     name: "Dhanyatha Reddy - Prod Owner"
     email: "dhanyathareddy10@gmail.com"
