@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Dhanyatha Reddy"
-    email: "dhanyathareddy10@gmail.com"
+    email: "{cipher}0f47c85f8d73fda99f6d60d6b63454103e50bb297a8ba517a636ca18c72222314b55a5d6db987938759df33cf10336a5"
   onCallSupport:
     - (555)555-1234
     - (555)555-1235
