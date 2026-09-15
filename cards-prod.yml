@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs"
+  message: "Welcome to EazyBank cards related PROD APIs -  changed message for spring cloud bus"
   contactDetails:
     name: "Dhanyatha Reddy - Prod Owner"
     email: "dhanyathareddy10@gmail.com"
