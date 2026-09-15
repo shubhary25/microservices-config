@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Kumar Abhishek - Cards QA Lead "
+    email: "vickeepaypal@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)555-1235

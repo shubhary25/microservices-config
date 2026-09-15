@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs"
+  contactDetails:
+    name: "Dhanyatha Reddy - Prod Owner"
+    email: "dhanyathareddy10@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)555-1235
