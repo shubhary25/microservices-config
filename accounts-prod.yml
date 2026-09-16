@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs -  changed message for spring monitor"
+  message: "Welcome to EazyBank accounts related PROD APIs -  changed message for spring monitor rev1"
   contactDetails:
     name: "Dhanyatha Reddy"
     email: "{cipher}0f47c85f8d73fda99f6d60d6b63454103e50bb297a8ba517a636ca18c72222314b55a5d6db987938759df33cf10336a5"
