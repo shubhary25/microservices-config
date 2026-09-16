@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Accounts Microservices"
+  message: "Welcome to Accounts Microservices - default profile uploaded"
   contactDetails:
     name: "Shubham Aryan"
     email: "shubharyan13@gmail.com"
