@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Cards Microservices"
+  message: "Welcome to Cards Microservices - default profile uploaded"
   contactDetails:
     name: "Shubham Aryan"
     email: "shubharyan13@gmail.com"
